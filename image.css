@@ -1,0 +1,9 @@
+body{
+	background-image:url("http://www.voisinsvigilants.org/img/homedeco/entraide.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#titre{
+	float: center;
+	margin-top: 10px;
+}
